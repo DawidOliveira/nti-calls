@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328642684832",
+    "firebase_url": "https://nti-calls.firebaseio.com",
+    "project_id": "nti-calls",
+    "storage_bucket": "nti-calls.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328642684832:android:d624e1caf799b85f42a6c5",
+        "android_client_info": {
+          "package_name": "com.example.NTI_Calls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328642684832-i30m257c6im2fl7fkfmckatbetp6irrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.NTI_Calls",
+            "certificate_hash": "3f738dee8042130be833856d714927c0df1774dd"
+          }
+        },
+        {
+          "client_id": "328642684832-g0ela12k7aka8hfvo94d4912m1jijs8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADe1koG3LEd3j2u8Egw0Ee-w--4jdqX8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328642684832-g0ela12k7aka8hfvo94d4912m1jijs8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
